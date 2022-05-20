@@ -1,9 +1,9 @@
 {
-  "name": "Kahootflooder",
+  "name": "Kahoot Flooder",
   "version": "1.2.0",
   "description": "Floods kahoots mabye",
   "main": "flood.js",
-  "author": "furkota",
+  "author": "ImKTKota",
   "license": "unlicense",
   "dependencies": {
     "an-array-of-english-words": "^2.0.0",
