@@ -1,5 +1,5 @@
-# Kahoot Bot is a program especially designed to make people confused.
-# Great for April fools pranks and jokes.
+# Kahoot Flooder is a program especially designed to make people confused.
+ Great for April fools pranks, jokes, and school.
 #  If your going to use my code, please credit me.
  
  
